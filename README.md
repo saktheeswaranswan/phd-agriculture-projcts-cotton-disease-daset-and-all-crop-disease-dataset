@@ -69,3 +69,43 @@ segmentation cotton disease dataset
 https://universe.roboflow.com/roboflow-100/cotton-20xz5
 
 https://universe.roboflow.com/objectdetection-dwyrp/ornamental-fish-detection
+
+https://universe.roboflow.com/dynamite-duelers-2/plant-diagnosis-9--peppers
+
+https://universe.roboflow.com/plant-fp7ay/tomato-disease-bj8e6
+
+https://universe.roboflow.com/agml/plant_doc_detection
+https://universe.roboflow.com/cairo-university-o2edn/p1000
+
+https://universe.roboflow.com/computer-vision-0lmwq/group-project-qiz1r
+
+https://universe.roboflow.com/fyp-fksbh/fyp-sugarcane-plant-disease
+
+https://universe.roboflow.com/resgreen-group-inc/plant-zykga
+
+big datset plat disease datset 5000 images 
+ Plant Disease Detection
+  Plant Disease Detection
+
+  https://universe.roboflow.com/floragenic-9v9os/plant-disease-detection-3anip
+  https://universe.roboflow.com/floragenic-9v9os/plant-disease-detection-3anip
+
+
+  paddy field
+
+  https://universe.roboflow.com/gec-thrissur-fae0g/paddy-disease-detection-dt23m
+
+  https://universe.roboflow.com/gec-thrissur-fae0g/paddy-disease-detection-dt23m
+
+  https://universe.roboflow.com/gec-thrissur-fae0g/paddy-disease-detection-dt23m
+
+  https://universe.roboflow.com/yolo-datasets-xmdcs/gdm-project
+
+  insect attack tomato plant
+
+  https://universe.roboflow.com/pestoapp/pesto-tomato-leaf-disease-and-pest
+
+
+  https://universe.roboflow.com/pestoapp/pesto-tomato-leaf-disease-and-pest
+
+  
