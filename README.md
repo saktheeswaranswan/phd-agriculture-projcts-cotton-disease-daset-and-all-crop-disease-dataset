@@ -39,3 +39,33 @@ https://universe.roboflow.com/national-college-of-ireland/cotton-plant-disease-p
 Monk: best cotton plat disease dataset
 Monk: https://www.kaggle.com/datasets/dhamur/cotton-plant-disease
  Monk: https://www.kaggle.com/datasets/seroshkarim/cotton-leaf-disease-dataset 
+
+ impo
+ https://universe.roboflow.com/institue-of-southern-punjab/sample-ixosm
+
+ https://universe.roboflow.com/national-college-of-ireland/cotton-plant-disease-prediction-igthk/dataset/3
+
+ https://universe.roboflow.com/yolostudy-lby2u/plant-gypos
+
+ https://universe.roboflow.com/universitas-atma-jaya/tomato-leaf-disease-rxcft
+ https://universe.roboflow.com/plants-diseases-detection/plants-diseases-detection-ezotq
+
+ https://universe.roboflow.com/h-jintr/cotton-disease-detectionv2
+
+ weed
+
+
+
+ https://universe.roboflow.com/augmented-startups/weeds-nxe1w
+
+
+important plant disease dataset
+
+https://universe.roboflow.com/graduation-project-2023/plants-diseases-detection-and-classification
+https://universe.roboflow.com/graduation-project-2023/plants-diseases-detection-and-classification
+
+segmentation cotton disease dataset
+
+https://universe.roboflow.com/roboflow-100/cotton-20xz5
+
+https://universe.roboflow.com/objectdetection-dwyrp/ornamental-fish-detection
