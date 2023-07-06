@@ -1,5 +1,10 @@
 # phd-agriculture-projcts-cotton-disease-daset-and-all-crop-disease-dataset
 phd-agriculture projcts-cotton disease daset and all crop disease dataset
+
+
+  very big fish datastet aquarium fish tank
+
+  https://universe.roboflow.com/final-dinner/detect-for-me/dataset/1
 Cotton Disease Dataset
 https://universe.roboflow.com/national-college-of-ireland/cotton-plant-disease-prediction-igthk/dataset/3
 
@@ -107,5 +112,24 @@ big datset plat disease datset 5000 images
 
 
   https://universe.roboflow.com/pestoapp/pesto-tomato-leaf-disease-and-pest
+
+
+  very big fish datastet aquarium fish tank
+
+  https://universe.roboflow.com/final-dinner/detect-for-me/dataset/1
+
+  car damage datset big
+  [1:23 PM, 7/6/2023] Monk: https://universe.roboflow.com/rev-tvsjf/cow-lie-stand-walk
+[1:25 PM, 7/6/2023] Monk: https://universe.roboflow.com/jadavpur-university-vlvoc/waste-detection-vlpz1
+[1:26 PM, 7/6/2023] Monk: https://universe.roboflow.com/ayush-grover/car-dects-new
+[1:26 PM, 7/6/2023] Monk: https://universe.roboflow.com/yash-sawant/car-dent-detection2
+[1:26 PM, 7/6/2023] Monk: https://universe.roboflow.com/yash-sawant/car-dent-detection
+[1:26 PM, 7/6/2023] Monk: https://universe.roboflow.com/lakshmi-narayanan-r/car_defect_2
+[1:27 PM, 7/6/2023] Monk: https://universe.roboflow.com/alan-lampert-xfmhr/car-damage-detector
+[1:27 PM, 7/6/2023] Monk: https://universe.roboflow.com/cardamage-jrvmi/car-damage-cqreo
+[1:27 PM, 7/6/2023] Monk: https://universe.roboflow.com/vr-goals/detection-of-cracks-and-dents
+[1:28 PM, 7/6/2023] Monk: https://universe.roboflow.com/ae-43fv6/damage-severity
+[1:28 PM, 7/6/2023] Monk: big car damage
+[1:28 PM, 7/6/2023] Monk: https://universe.roboflow.com/skillfactory/car-damage-c1f0i
 
   
